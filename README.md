@@ -80,6 +80,7 @@ I have a developing interest Data Science & Analytics and I am actively looking 
 - [Pyladies Kampala](https://www.meetup.com/pyladieskampala/) - Python loving ladies in Uganda!
 - [Celo Africa](https://www.facebook.com/celoAfrica/)         - Celo community in Africa
 - [Facebook Developer Circle: Kampala](https://www.facebook.com/groups/DevCKampala/about) - A community for software developers and technology enthusiasts in Kampala to share opportunities; learn, collaborate and build tech based solutions together.
+- [GDG Kampala](https://www.meetup.com/GDG-Kampala/) - User group for people who are interested in Google's developer technology.
 
 
 ## How to find me 👀📧
