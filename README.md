@@ -1,11 +1,13 @@
-# MY PORTFOLIO 💬✍️	
+# Hello World 👋	
 
-## About me 💂‍♀️🤍
+## About me 💂‍♀️🤍💬✍️
 
 I am a software developer, passionate about the things I do, and: 
 - a constant learner 📚🧑‍🎓, striving to find my way to the top 🧗‍♀️, while seeking to create an impact with the work I do at every level 🚩.
 - a believer in structure and alignment before and while working, therefore subscribing to agile development approaches.
 - actively looking for a mentor 👶👨 to guide me through my career as a software developer.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dxania&count_private=true&show_icons=true&theme=radical)](https://github.com/dxania/github-readme-stats)
 
 
 ## Personal Projects
